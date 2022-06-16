@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&family=Montserrat:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+#userInput {
+    border-radius: 5px;
+}
+#country {
+    background-color: orangered;
+    border-radius: 2rem;
+    padding: 1px 4px;
+}
+
+p {
+    padding: 1rem;
+    color: white;
+}
